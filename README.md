@@ -65,23 +65,29 @@ The raw review text is processed as follows:
 
 ### Sentiment Distribution
 The dataset shows a significant class imbalance with positive reviews dominating.
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0456aab4-d80f-4a57-af25-4bbfdb0c22ac" />
 
-![Sentiment Distribution](<img width="882" height="576" alt="image" src="https://github.com/user-attachments/assets/bb75e5c9-c5a3-493a-8e15-28a014273c13" />)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a0a45f09-4849-4988-80bc-9a8b7bbce299" />
 
 ### Word Clouds
 Visualizing the most frequent words for each sentiment:
 
 **Positive Sentiment Word Cloud**  
-![Positive Word Cloud](path/to/your/positive_wordcloud.png)
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7547cc68-be94-4ead-9169-15e6e2acc101" />
+
 
 **Negative Sentiment Word Cloud**  
-![Negative Word Cloud](path/to/your/negative_wordcloud.png)
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ca32e5e9-08b3-4a26-9d65-7664cec356f9" />
+
 
 ### N-gram Analysis
 Bigram and trigram analysis identifies common multi-word phrases associated with each sentiment.
 
-![Top Negative Bigrams](path/to/your/negative_bigrams_chart.png)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2a4d0d4b-4b91-4765-94c9-33f9b6f2c035" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fb17eeb3-2817-49b9-875f-050528e96953" />
+
 
 ---
 
@@ -116,7 +122,8 @@ Performance metrics include Accuracy, Precision, Recall, and F1-Score.
 ### Confusion Matrix
 Logistic Regression shows high accuracy in classifying sentiments:
 
-![Confusion Matrix](path/to/your/logistic_regression_confusion_matrix.png)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/52932e0a-9527-4011-9b5e-51ea4facfc08" />
+
 
 ### Key Findings
 - **Class Imbalance is Critical:** SMOTE improved recall and F1-scores for minority classes (Negative and Neutral).  
