@@ -66,8 +66,7 @@ The raw review text is processed as follows:
 ### Sentiment Distribution
 The dataset shows a significant class imbalance with positive reviews dominating.
 
-![Sentiment Distribution](<img width="882" height="576" alt="image" src="https://github.com/user-attachments/assets/bb75e5c9-c5a3-493a-8e15-28a014273c13" />
-)
+![Sentiment Distribution](<img width="882" height="576" alt="image" src="https://github.com/user-attachments/assets/bb75e5c9-c5a3-493a-8e15-28a014273c13" />)
 
 ### Word Clouds
 Visualizing the most frequent words for each sentiment:
