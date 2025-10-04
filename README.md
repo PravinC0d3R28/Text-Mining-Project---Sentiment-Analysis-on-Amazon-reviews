@@ -136,9 +136,10 @@ pip install -r requirements.txt
 
 # Ensure dataset is in root directory
 # Launch Jupyter Notebook
+```
 jupyter notebook
 Open Sentiment_Analysis_Amazon_reviews.ipynb and run all cells.
-```
+
 Dependencies
 ```
 A requirements.txt file should include:
