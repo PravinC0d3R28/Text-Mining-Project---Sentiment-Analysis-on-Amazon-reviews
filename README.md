@@ -65,7 +65,7 @@ The raw review text is processed as follows:
 
 ### Sentiment Distribution
 The dataset shows a significant class imbalance with positive reviews dominating.
-<img width="882" height="576" alt="image" src="https://github.com/user-attachments/assets/0456aab4-d80f-4a57-af25-4bbfdb0c22ac" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0456aab4-d80f-4a57-af25-4bbfdb0c22ac" />
 
 ![Sentiment Distribution](<img width="882" height="576" alt="image" src="https://github.com/user-attachments/assets/bb75e5c9-c5a3-493a-8e15-28a014273c13" />)
 
