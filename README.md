@@ -66,7 +66,8 @@ The raw review text is processed as follows:
 ### Sentiment Distribution
 The dataset shows a significant class imbalance with positive reviews dominating.
 
-![Sentiment Distribution](path/to/your/sentiment_distribution_pie_chart.png)
+![Sentiment Distribution](<img width="882" height="576" alt="image" src="https://github.com/user-attachments/assets/bb75e5c9-c5a3-493a-8e15-28a014273c13" />
+)
 
 ### Word Clouds
 Visualizing the most frequent words for each sentiment:
@@ -137,7 +138,7 @@ pip install -r requirements.txt
 # Ensure dataset is in root directory
 # Launch Jupyter Notebook
 ```
-jupyter notebook
+
 Open Sentiment_Analysis_Amazon_reviews.ipynb and run all cells.
 
 Dependencies
