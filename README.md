@@ -84,9 +84,9 @@ Visualizing the most frequent words for each sentiment:
 ### N-gram Analysis
 Bigram and trigram analysis identifies common multi-word phrases associated with each sentiment.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2a4d0d4b-4b91-4765-94c9-33f9b6f2c035" />
+<img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/2a4d0d4b-4b91-4765-94c9-33f9b6f2c035" />
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fb17eeb3-2817-49b9-875f-050528e96953" />
+<img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/fb17eeb3-2817-49b9-875f-050528e96953" />
 
 
 ---
